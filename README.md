@@ -1,3 +1,4 @@
+![Thread Github Readme](https://github.com/voiiddxx/Thread-react-node/assets/95859137/86db6468-74a8-46c8-b8c8-6faf6ecea829)
 
 # Thread🧵
 
